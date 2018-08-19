@@ -1,0 +1,4 @@
+{
+	"base_url": "http://101.200.159.113/onekeyar/user/",
+	"ip_url": "http://ip-api.com/json"
+}
