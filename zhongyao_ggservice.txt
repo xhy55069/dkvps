@@ -1,0 +1,12 @@
+{
+	"base_url": "http://www.shushibeihu.com/ggservice/user/",
+	"ad_img1": "http://www.haijiuling.com/fs.jpg",
+	"ad_url1": "https://h5.m.taobao.com/awp/core/detail.htm",
+	"ad_title1": "USB迷你手持喷雾加湿风扇",
+	"ad_type": 1,
+	"Des": "type2是跳转浏览器，1进入webview",
+	"showVideo":false,
+	"pNs":"com.qihoo.appstore;com.wandoujia.phoenix2;com.pp.assistant"
+
+	
+}

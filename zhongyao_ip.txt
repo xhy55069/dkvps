@@ -1,4 +1,7 @@
 {
 	"base_url": "http://101.200.159.113/onekeyar/user/",
-	"ip_url": "http://ip-api.com/json"
+	"ip_url": "http://api.ip138.com/query/?datatype=jsonp&token=b3884e7497905be1f952372d91a4b8ba",
+	"ip_url3": "http://ip.aliyun.com/service/getIpInfo.php?ip=myip",
+	"ip_url1": "http://ip-api.com/json/"
+
 }
